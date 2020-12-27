@@ -4,7 +4,7 @@ pop = [2.519, 3.692, 5.263, 6.972]
 # historgraph without any bin count or other parameters
 plt.hist(year)
 plt.show()
-plt.cl()
+plt.clf()
 
 plt.hist(pop)
 plt.show()
